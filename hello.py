@@ -1,4 +1,4 @@
-print ("Hello Github")
+print ("Hello ")
 a =5
 b =6
 c=7
